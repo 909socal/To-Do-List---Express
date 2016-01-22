@@ -1,0 +1,23 @@
+body{
+	background-color: black;
+	color: white;
+	font-size: 15px;
+	font-family: Arial;
+}
+
+#template{
+	display: none;
+}
+
+.buttonform{
+	padding-top: 50px;
+}
+
+#myInput{
+	width: 1140px;
+}
+.form-group{
+	float: none;
+	padding-left: 0;
+
+}
